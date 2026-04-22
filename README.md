@@ -13,6 +13,10 @@ I’m currently building real-world projects while growing my skills in Google C
 - Firebase / Google Cloud
 - Git / GitHub
 
+## 🏅 Certifications
+- Google Cloud Associate Cloud Engineer
+- Google Cloud Digital Leader
+
 ## 🎵 Main Project
 - Mad Hatter Records → https://mad-hatter-records.web.app
 
