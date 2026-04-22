@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dave 👋
 
-<!--
-**DaveCorleto/DaveCorleto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer with a focus on Cloud and backend development.  
+I’m currently building real-world projects while growing my skills in Google Cloud.
 
-Here are some ideas to get you started:
+## 🚀 What I'm doing
+- Building a music-driven side project
+- Improving backend and API development skills
+- Studying Google Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+- JavaScript / Node.js
+- Firebase / Google Cloud
+- Git / GitHub
+
+## 🎵 Main Project
+- Mad Hatter Records → https://mad-hatter-records.web.app
+
+A personal project where I combine music production and development.  
+The goal is to build a small platform to showcase and sell original tracks.
+
+## 📫 Contact
+- https://mad-hatter-records.web.app
